@@ -1,6 +1,6 @@
 # Uncomplicating Packer
 
-Project to create Amazon AMIs using Packer.
+Project to create AMIs using Packer.
 
 [LINUXtips - Uncomplicating Packer](https://www.linuxtips.io/product-page/descomplicando-o-packer)
 
@@ -30,4 +30,3 @@ packer build packer.json
 ## Documentation Packer Commands (CLI)
 
 [Packer Commands (CLI)](https://www.packer.io/docs/commands)
-
